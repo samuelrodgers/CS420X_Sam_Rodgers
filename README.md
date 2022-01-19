@@ -1,1 +1,3 @@
-# CS420X_Sam_Rodgers
+# CS420X Sam Rodgers
+
+[Assignment 1]
